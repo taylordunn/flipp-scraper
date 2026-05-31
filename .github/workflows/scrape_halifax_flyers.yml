@@ -1,0 +1,47 @@
+name: Halifax flyer scraper
+
+on:
+  schedule:
+    # runs every day at 2 PM UTC
+    - cron: "0 14 * * *"
+  push:
+    branches-ignore: [] # will also run when pushed to any branch
+
+jobs:
+  scrape_halifax_flyers:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Install Python
+        uses: actions/setup-python@v4
+        # see details (matrix, python-version, python-version-file, etc.)
+        # https://github.com/actions/setup-python
+      - name: Install poetry
+        uses: abatilo/actions-poetry@v2
+      - name: Setup a local virtual environment (if no poetry.toml file)
+        run: |
+          poetry config virtualenvs.create true --local
+          poetry config virtualenvs.in-project true --local
+      - uses: actions/cache@v3
+        name: Define a cache for the virtual environment based on the dependencies lock file
+        with:
+          path: ./.venv
+          key: venv-${{ hashFiles('poetry.lock') }}
+      - name: Install the project dependencies
+        run: poetry install
+
+      - name: Run the scraper
+        run: poetry run python scrape_halifax.py
+
+      - name: Commit changes
+        run: |
+          git config user.name "taylordunn"
+          git config user.email "t.dunn19@gmail.com"
+          git add data/*.csv
+          git commit -m "update Halifax flyer data"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
