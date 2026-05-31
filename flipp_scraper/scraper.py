@@ -132,10 +132,7 @@ class FlippScraper:
                     "merchant": merchant,
                     "flyer_id": flyer_id,
                     "name": item.get("name", ""),
-                    "description": item.get("description", ""),
-                    "price": item.get("price", ""),
-                    "pre_price_text": item.get("pre_price_text", ""),
-                    "price_text": item.get("price_text", ""),
+                    "price": pd.to_numeric(item.get("price", "")),
                     "valid_from": item.get("valid_from", ""),
                     "valid_to": item.get("valid_to", ""),
                 }
