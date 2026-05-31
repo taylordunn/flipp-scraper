@@ -6,13 +6,13 @@ A Python web-scraping library for pulling deal data from [Flipp](https://flipp.c
 
 - Fetches current flyers from the Flipp API by Canadian postal code or US zip code
 - Filters flyers by merchant name and category (e.g. "Groceries")
-- Returns results as a [pandas](https://pandas.pydata.org/) `DataFrame` for easy analysis
+- Returns results as a pandas `DataFrame` for easy analysis
 - Saves results to CSV
 
 ## Installation
 
 ```bash
-pip install -r requirements.txt
+poetry install
 ```
 
 ## Usage
