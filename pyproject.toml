@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "flipp-scraper"
+version = "0.1.0"
+description = "Scraper for flipp.com flyers"
+authors = ["taylordunn <t.dunn19@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+requests = "^2.34.2"
+pandas = "^3.0.3"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
