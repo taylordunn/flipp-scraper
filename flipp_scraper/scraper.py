@@ -4,6 +4,7 @@ from __future__ import annotations
 
 import re
 from typing import Optional
+import logging
 
 import pandas as pd
 
@@ -11,14 +12,17 @@ from flipp_scraper.api import FlippClient
 
 # Default set of grocery store merchants to include
 DEFAULT_MERCHANTS = {
-    "No Frills",
-    "FreshCo",
-    "Walmart",
-    "Loblaws",
-    "Metro",
     "Sobeys",
-    "Food Basics",
+    "Walmart",
+    "Atlantic Superstore",
+    "Loblaws",
+    "No Frills",
+    "Costco",
+    "Lawtons Drugs",
     "Giant Tiger",
+    "FreshCo",
+    "Metro",
+    "Food Basics",
     "Real Canadian Superstore",
     "T&T Supermarket",
 }
@@ -57,7 +61,9 @@ class FlippScraper:
                 if not provided.
         """
         self.merchants = merchants if merchants is not None else DEFAULT_MERCHANTS
+        logging.debug(f"Initialized FlippScraper with merchants: {self.merchants}")
         self.category_filter = category_filter
+        logging.debug(f"Initialized FlippScraper with category filter: {self.category_filter}")
         self.client = client or FlippClient()
 
     # ------------------------------------------------------------------
@@ -68,6 +74,7 @@ class FlippScraper:
         """Return True if a flyer dict passes the merchant/category filters."""
         merchant = flyer.get("merchant", "")
         if merchant not in self.merchants:
+            logging.debug(f"Skipping flyer ID {flyer.get('id', '?')} for merchant '{merchant}'")
             return False
 
         if self.category_filter is not None:
@@ -75,6 +82,7 @@ class FlippScraper:
             if isinstance(categories, str):
                 categories = [c.strip() for c in categories.split(",")]
             if self.category_filter not in categories:
+                logging.debug(f"Skipping flyer ID {flyer.get('id', '?')} for merchant '{merchant}' due to missing category '{self.category_filter}'")
                 return False
 
         return True
