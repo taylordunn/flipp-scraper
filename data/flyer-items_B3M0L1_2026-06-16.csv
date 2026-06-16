@@ -1,0 +1,113 @@
+merchant,flyer_id,name,price,valid_from,valid_to
+Costco,7985328,"Mentos, Chewy Mints, Mint, 20 × 37 g",14.99,2026-06-15T00:00:00-04:00,2026-06-21T23:59:59-04:00
+Costco,7985328,"Pepperidge Farm, Goldfish Crackers, 1.64 kg",13.99,2026-06-15T00:00:00-04:00,2026-06-21T23:59:59-04:00
+Costco,7985328,"Mother Earth Vinegar Organic Apple Cider Vinegar, 1.9 L",9.99,2026-06-15T00:00:00-04:00,2026-06-21T23:59:59-04:00
+Costco,7985328,"Twinings Earl Grey Tea, 144-count",12.49,2026-06-15T00:00:00-04:00,2026-06-21T23:59:59-04:00
+Costco,7985328,"Reese's Pieces Milk Chocolate Pieces Bark, 566 g",11.99,2026-06-15T00:00:00-04:00,2026-06-21T23:59:59-04:00
+Costco,7985328,"Creamy Caramels Candy, 240 × 6.7 g",15.99,2026-06-15T00:00:00-04:00,2026-06-21T23:59:59-04:00
+Costco,7985328,"Nestlé Assorted Mini Bars and Candies, 1.3 kg",26.49,2026-06-15T00:00:00-04:00,2026-06-21T23:59:59-04:00
+Costco,7985328,"Airheads White Mystery Candy, 36-count",7.99,2026-06-15T00:00:00-04:00,2026-06-21T23:59:59-04:00
+Costco,7985328,"Finish Quantum Everyday Dishwasher Detergent, 176 Tablets",31.99,2026-06-15T00:00:00-04:00,2026-06-21T23:59:59-04:00
+Costco,7985328,"Trident Sugar-free Spearmint Gum, 12 × 14 pieces",15.99,2026-06-15T00:00:00-04:00,2026-06-21T23:59:59-04:00
+Costco,7985328,"Skittles Sour Candy, 24-Count",29.99,2026-06-15T00:00:00-04:00,2026-06-21T23:59:59-04:00
+Costco,7985328,"Kraft Rancher's Choice Salad Dressing, 3.78 L",25.99,2026-06-15T00:00:00-04:00,2026-06-21T23:59:59-04:00
+Costco,7985328,"Built Puffs Protein Bars, Brownie Batter & Coconut, 14 × 40 g",28.99,2026-06-15T00:00:00-04:00,2026-06-21T23:59:59-04:00
+Costco,7985328,"Kit Kat King Size Chocolate Wafer Bars, 24-count",42.99,2026-06-15T00:00:00-04:00,2026-06-21T23:59:59-04:00
+Costco,7985328,"Schneider's Hot Rod Meat Sticks, 40-count",19.49,2026-06-15T00:00:00-04:00,2026-06-21T23:59:59-04:00
+Costco,7985328,"Mr. Clean Magic Eraser Extra Durable, 18-count",19.99,2026-06-15T00:00:00-04:00,2026-06-21T23:59:59-04:00
+Costco,7985328,"Archer - Grass Fed Beef Sticks, 28 × 14 g",22.49,2026-06-15T00:00:00-04:00,2026-06-21T23:59:59-04:00
+Costco,7985328,"Kraft Miracle Whip, 3.78 L",20.99,2026-06-15T00:00:00-04:00,2026-06-21T23:59:59-04:00
+Costco,7985328,"Swiffer Sweeper Wet Mopping Cloths, 64 count",24.99,2026-06-15T00:00:00-04:00,2026-06-21T23:59:59-04:00
+Costco,7985328,"Fruit by the Foot, Fruit Flavoured Snacks, 44 × 21 g",22.49,2026-06-15T00:00:00-04:00,2026-06-21T23:59:59-04:00
+Costco,7985328,"Celebration Mini Chocolate Chip Cookies, 30 × 26 g",13.99,2026-06-15T00:00:00-04:00,2026-06-21T23:59:59-04:00
+Costco,7985328,"Jolly Rancher Chews Candy, Original, 12 × 58 g",15.49,2026-06-15T00:00:00-04:00,2026-06-21T23:59:59-04:00
+Costco,7985328,"General Mills Super Jumbo Cinnamon Toast Crunch Cereal, 1.3 kg",10.49,2026-06-15T00:00:00-04:00,2026-06-21T23:59:59-04:00
+Costco,7985328,"Vita Coco, Pure Coconut Water, 12 × 330 mL",20.99,2026-06-15T00:00:00-04:00,2026-06-21T23:59:59-04:00
+Costco,7985328,"Starburst Original Fruit Candy, 36 × 58 g",43.99,2026-06-15T00:00:00-04:00,2026-06-21T23:59:59-04:00
+Costco,7985328,"Fibre 1 - Chewy Bars Oats and Chocolate, 36 × 35 g",14.99,2026-06-15T00:00:00-04:00,2026-06-21T23:59:59-04:00
+Costco,7985328,"Yupik Hulled Sesame Seeds, 2 kg",10.99,2026-06-15T00:00:00-04:00,2026-06-21T23:59:59-04:00
+Costco,7985328,"Titan Aluminum Foil Heavy Duty, 656' x 11.8""",19.99,2026-06-15T00:00:00-04:00,2026-06-21T23:59:59-04:00
+Costco,7985328,"Bertolli Extra Light Tasting Olive Oil, 3 L",27.99,2026-06-15T00:00:00-04:00,2026-06-21T23:59:59-04:00
+Costco,7985328,"Sensible Portions Garden Veggie Straws, 475 g",6.99,2026-06-15T00:00:00-04:00,2026-06-21T23:59:59-04:00
+Costco,7985328,"Moulin Rouge Crushed Cayenne Pepper, 1.4 kg",11.49,2026-06-15T00:00:00-04:00,2026-06-21T23:59:59-04:00
+Costco,7985328,"Snack Factory Pretzel Crisps - Original Pretzel Crackers, 737 g",7.99,2026-06-15T00:00:00-04:00,2026-06-21T23:59:59-04:00
+Costco,7985328,"Joyburst Renew Premium Hydration Beverage Variety Pack, 500 mL 18-pack",27.99,2026-06-15T00:00:00-04:00,2026-06-21T23:59:59-04:00
+Costco,7985328,"Mentos, Chewy Mints, Grape, 20 × 37.5 g",14.99,2026-06-15T00:00:00-04:00,2026-06-21T23:59:59-04:00
+Costco,7985328,"Alcan Heavy Duty and Non-Stick Aluminum Foil Wrap, 3-pack",20.99,2026-06-15T00:00:00-04:00,2026-06-21T23:59:59-04:00
+Costco,7985328,"Airheads Blue Raspberry Candies, 36 × 15.6 g",7.99,2026-06-15T00:00:00-04:00,2026-06-21T23:59:59-04:00
+Costco,7985328,"Excel Winterfresh Mints, 8 × 34 g",15.49,2026-06-15T00:00:00-04:00,2026-06-21T23:59:59-04:00
+Costco,7985328,"Swiffer Sweeper Dry Sweeping Cloth, 84 count",23.99,2026-06-15T00:00:00-04:00,2026-06-21T23:59:59-04:00
+Costco,7985328,"Munchies Honey Roasted Peanuts, 12 × 55 g",8.49,2026-06-15T00:00:00-04:00,2026-06-21T23:59:59-04:00
+Costco,7985328,"Sour Patch Maynards Sour Patch Kids Glow Ups, 18 × 50 g",22.99,2026-06-15T00:00:00-04:00,2026-06-21T23:59:59-04:00
+Costco,7985328,"Munchies Honey Sweet Trail Mix, 12 × 35 g",8.49,2026-06-15T00:00:00-04:00,2026-06-21T23:59:59-04:00
+Costco,7985328,"Jumping Bean Organic Deep Water Dark Fairtrade K-Cups, 90-count",51.99,2026-06-15T00:00:00-04:00,2026-06-21T23:59:59-04:00
+Costco,7985328,"Airheads Individually Wrapped Full Size Bars, Cherry, 36 × 15.6 g",7.99,2026-06-15T00:00:00-04:00,2026-06-21T23:59:59-04:00
+Costco,7985328,"Celsius Vibes Energy Drink Variety Pack, 355 mL 18-pack",31.99,2026-06-15T00:00:00-04:00,2026-06-21T23:59:59-04:00
+Costco,7985328,"Munchies Original Snack Mix, 1.1 kg",8.99,2026-06-15T00:00:00-04:00,2026-06-21T23:59:59-04:00
+Costco,7985328,"Huer Candy Cup Gummies, 6 × 165 g (5.8 oz.)",13.49,2026-06-15T00:00:00-04:00,2026-06-21T23:59:59-04:00
+Costco,7985328,"Trident Sugar-free Freshmint Gum, 12 × 14 pieces",15.99,2026-06-15T00:00:00-04:00,2026-06-21T23:59:59-04:00
+Costco,7985328,"Huer - Green Frogs Pocket Pals, 12 × 75 g",12.49,2026-06-15T00:00:00-04:00,2026-06-21T23:59:59-04:00
+Costco,7985328,"Tazo Chai Latte, 3 × 946mL",13.99,2026-06-15T00:00:00-04:00,2026-06-21T23:59:59-04:00
+Costco,7985328,"Airheads Individually Wrapped Full Size Bars, Watermelon, 36 × 15.6 g",7.99,2026-06-15T00:00:00-04:00,2026-06-21T23:59:59-04:00
+Costco,7985328,"Windex Original Glass Cleaner, 5 L + 950 mL",17.99,2026-06-15T00:00:00-04:00,2026-06-21T23:59:59-04:00
+Costco,7985328,Cubeware 38 oz Rectangular Food Container 55-pack,19.99,2026-06-15T00:00:00-04:00,2026-06-21T23:59:59-04:00
+Costco,7985328,"Nerds Rope, Candy Berry Flavour, 24 × 26 g",30.99,2026-06-15T00:00:00-04:00,2026-06-21T23:59:59-04:00
+Costco,7985328,"Chosen Foods Avocado Oil Spray, 2 × 383 g",19.49,2026-06-15T00:00:00-04:00,2026-06-21T23:59:59-04:00
+Costco,7985328,"Dawn Powerwash Dish Spray, 3 × 635 mL",16.49,2026-06-15T00:00:00-04:00,2026-06-21T23:59:59-04:00
+Costco,7985328,"Nerds Grape and Strawberry Candy, 24 × 46.7 g",23.99,2026-06-15T00:00:00-04:00,2026-06-21T23:59:59-04:00
+Costco,7985328,"Hubba Bubba Bubble Tap Awesome Original, 12 × 56 g",19.49,2026-06-15T00:00:00-04:00,2026-06-21T23:59:59-04:00
+Costco,7985328,"Skittles Gummies Original, Candy, 18 × 57 g",20.99,2026-06-15T00:00:00-04:00,2026-06-21T23:59:59-04:00
+Costco,7985328,"Twizzlers Gummies Strawberry Candies, 12 × 90 g",23.49,2026-06-15T00:00:00-04:00,2026-06-21T23:59:59-04:00
+Costco,7985328,"Trident Bubblegum, 12 × 14 pieces",15.99,2026-06-15T00:00:00-04:00,2026-06-21T23:59:59-04:00
+Costco,7985328,"Skittles Original Candy, 36-count",43.99,2026-06-15T00:00:00-04:00,2026-06-21T23:59:59-04:00
+Costco,7985328,"Lysol Advanced Disinfecting Wipes, 550 Wipes",24.99,2026-06-15T00:00:00-04:00,2026-06-21T23:59:59-04:00
+Costco,7985328,"Skittles Berry Explosion Candy, 36 x 61 g",43.99,2026-06-15T00:00:00-04:00,2026-06-21T23:59:59-04:00
+Costco,7985328,"Excel Peppermint Mints, 8 × 34 g",15.49,2026-06-15T00:00:00-04:00,2026-06-21T23:59:59-04:00
+Costco,7985328,"Huer Sour Candy Cups, 6 × 165 g",13.49,2026-06-15T00:00:00-04:00,2026-06-21T23:59:59-04:00
+Costco,7985328,"Teddy Pop Lollipops, 30-count",11.99,2026-06-15T00:00:00-04:00,2026-06-21T23:59:59-04:00
+Costco,7985328,"Tostitos Rounds Tortilla Chips, 826 g",7.99,2026-06-15T00:00:00-04:00,2026-06-21T23:59:59-04:00
+Costco,7985328,"Excel Spearmint Mints, 8 × 34 g",15.49,2026-06-15T00:00:00-04:00,2026-06-21T23:59:59-04:00
+Costco,7985328,"Trident Watermelon Twist Gum, 12 × 14 pieces",15.99,2026-06-15T00:00:00-04:00,2026-06-21T23:59:59-04:00
+Costco,7985328,"Munchies Salted Peanuts, 12 × 55 g",8.49,2026-06-15T00:00:00-04:00,2026-06-21T23:59:59-04:00
+Costco,7985328,"Skittles Tropical Fruit Candy, 36 × 61 g (2.15 oz.)",43.99,2026-06-15T00:00:00-04:00,2026-06-21T23:59:59-04:00
+Costco,7985328,"Love Good Protein, Protein Bars, 24 × 55 g",54.99,2026-06-15T00:00:00-04:00,2026-06-21T23:59:59-04:00
+Costco,7985328,"ECOS Grapefruit Plant Powered Dish Soap, 3.79 L + 739 mL",24.99,2026-06-15T00:00:00-04:00,2026-06-21T23:59:59-04:00
+Costco,7985328,"Cascade Power Clean Dishwasher Detergent ActionPacs, 115-count",23.99,2026-06-15T00:00:00-04:00,2026-06-21T23:59:59-04:00
+Costco,7985328,Kirkland Signature Glucosamine Sulfate 750 mg - 420 vegetarian capsules,23.99,2026-06-15T00:00:00-04:00,2026-06-21T23:59:59-04:00
+Costco,7985328,"Dawn Professional Liquid Dish Detergent, 3.78 L",17.99,2026-06-15T00:00:00-04:00,2026-06-21T23:59:59-04:00
+Costco,7985328,"Huer Sour Streamers Rainbow Belts, 1.35 kg",14.49,2026-06-15T00:00:00-04:00,2026-06-21T23:59:59-04:00
+Costco,7985328,"Nerds Candy Rope Rainbow, 24 × 26 g",30.99,2026-06-15T00:00:00-04:00,2026-06-21T23:59:59-04:00
+Costco,7985328,"Jolly Rancher Gummies Sours Candies, 12 × 96 g",23.49,2026-06-15T00:00:00-04:00,2026-06-21T23:59:59-04:00
+Costco,7985328,"Fiji Natural Spring Water, 24 × 500 mL",32.99,2026-06-15T00:00:00-04:00,2026-06-21T23:59:59-04:00
+Costco,7985328,Neutrogena Hydro Boost Gel Cream,28.36,2026-06-15T00:00:00-04:00,2026-06-21T23:59:59-04:00
+Costco,7985328,"Ferrero Nutella B-Ready, 36 × 22 g",20.99,2026-06-15T00:00:00-04:00,2026-06-21T23:59:59-04:00
+Costco,7985328,"Trident Tropical Twist, 12 × 14 pieces",15.99,2026-06-15T00:00:00-04:00,2026-06-21T23:59:59-04:00
+Costco,7985328,Cavendish Farms Restaurant Style Drive-Thru Thin Cut Fries,10.2,2026-06-15T00:00:00-04:00,2026-06-21T23:59:59-04:00
+Costco,7985328,"Mentos, Chewy Mints, Cinnamon, 20 × 37 g",14.99,2026-06-15T00:00:00-04:00,2026-06-21T23:59:59-04:00
+Costco,7985328,"Sunbrown Australian Calrose Brown Rice, 5 kg",14.99,2026-06-15T00:00:00-04:00,2026-06-21T23:59:59-04:00
+Giant Tiger,7981651,2 lb peaches,3.88,2026-06-17T00:00:00-04:00,2026-06-23T23:59:59-04:00
+Giant Tiger,7981651,Voortman Bakery wafers,1.75,2026-06-17T00:00:00-04:00,2026-06-23T23:59:59-04:00
+Giant Tiger,7981651,Bravo pasta sauce,1.95,2026-06-17T00:00:00-04:00,2026-06-23T23:59:59-04:00
+Giant Tiger,7981651,Schneiders Juicy Jumbos wieners,3.97,2026-06-17T00:00:00-04:00,2026-06-23T23:59:59-04:00
+Giant Tiger,7981651,Wonder bread or buns,2.0,2026-06-17T00:00:00-04:00,2026-06-23T23:59:59-04:00
+Giant Tiger,7981651,Maritime Pride large eggs,4.27,2026-06-17T00:00:00-04:00,2026-06-23T23:59:59-04:00
+Giant Tiger,7981651,Humpty Dumpty chips or snacks,2.88,2026-06-17T00:00:00-04:00,2026-06-23T23:59:59-04:00
+Giant Tiger,7981651,Voortman Bakery turnovers,1.75,2026-06-17T00:00:00-04:00,2026-06-23T23:59:59-04:00
+Giant Tiger,7981651,Fresh dinner sausages,3.97,2026-06-17T00:00:00-04:00,2026-06-23T23:59:59-04:00
+Giant Tiger,7981651,Voortman Bakery turnovers or wafers,1.75,2026-06-17T00:00:00-04:00,2026-06-23T23:59:59-04:00
+Giant Tiger,7981651,Humpty Dumpty chips or snacks,2.88,2026-06-17T00:00:00-04:00,2026-06-23T23:59:59-04:00
+Giant Tiger,7981651,Old Dutch chips or snacks,2.88,2026-06-17T00:00:00-04:00,2026-06-23T23:59:59-04:00
+Giant Tiger,7981651,10 lb russet potatoes,4.44,2026-06-17T00:00:00-04:00,2026-06-23T23:59:59-04:00
+Giant Tiger,7981651,English cucumber,0.87,2026-06-17T00:00:00-04:00,2026-06-23T23:59:59-04:00
+Giant Tiger,7981651,Wonder bread or buns,2.0,2026-06-17T00:00:00-04:00,2026-06-23T23:59:59-04:00
+Giant Tiger,7981651,Chapman's Collection ice cream bars,3.97,2026-06-17T00:00:00-04:00,2026-06-23T23:59:59-04:00
+Giant Tiger,7981651,Pepsi soft drinks,3.98,2026-06-17T00:00:00-04:00,2026-06-23T23:59:59-04:00
+Giant Tiger,7981651,Knorr Sidekicks side dish,1.65,2026-06-17T00:00:00-04:00,2026-06-23T23:59:59-04:00
+Giant Tiger,7981651,Post cereal,2.97,2026-06-17T00:00:00-04:00,2026-06-23T23:59:59-04:00
+Giant Tiger,7981651,Wonder bread or buns,2.0,2026-06-17T00:00:00-04:00,2026-06-23T23:59:59-04:00
+Giant Tiger,7981651,Giant Value salted butter,4.88,2026-06-17T00:00:00-04:00,2026-06-23T23:59:59-04:00
+Giant Tiger,7981651,2 lb clementines or mandarins,3.97,2026-06-17T00:00:00-04:00,2026-06-23T23:59:59-04:00
+Giant Tiger,7981651,Post cereal,2.97,2026-06-17T00:00:00-04:00,2026-06-23T23:59:59-04:00
+Giant Tiger,7981651,Maple Leaf flaked meat,1.47,2026-06-17T00:00:00-04:00,2026-06-23T23:59:59-04:00
+Giant Tiger,7981651,Schneiders Blue Ribbon bologna,3.97,2026-06-17T00:00:00-04:00,2026-06-23T23:59:59-04:00
+Giant Tiger,7981651,2 lb bagged lemons,3.97,2026-06-17T00:00:00-04:00,2026-06-23T23:59:59-04:00
