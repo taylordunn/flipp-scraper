@@ -1,0 +1,112 @@
+merchant,flyer_id,name,price,valid_from,valid_to
+Giant Tiger,8063244,Sun-Maid mini raisins,3.77,2026-08-05T00:00:00-04:00,2026-08-11T23:59:59-04:00
+Giant Tiger,8063244,Dare Breaktime cookies,0.99,2026-08-05T00:00:00-04:00,2026-08-11T23:59:59-04:00
+Giant Tiger,8063244,Dr. Oetker frozen pizza,3.47,2026-08-05T00:00:00-04:00,2026-08-11T23:59:59-04:00
+Giant Tiger,8063244,3 pack romaine lettuce,2.44,2026-08-05T00:00:00-04:00,2026-08-11T23:59:59-04:00
+Giant Tiger,8063244,Aqua Star Frozen wild Pacific Pink Salmon,5.97,2026-08-05T00:00:00-04:00,2026-08-11T23:59:59-04:00
+Giant Tiger,8063244,Giant Value salted butter,4.88,2026-08-05T00:00:00-04:00,2026-08-11T23:59:59-04:00
+Giant Tiger,8063244,Dawn dish soap,4.97,2026-08-05T00:00:00-04:00,2026-08-11T23:59:59-04:00
+Giant Tiger,8063244,Coca-Cola soft drinks,3.99,2026-08-05T00:00:00-04:00,2026-08-11T23:59:59-04:00
+Giant Tiger,8063244,Wonder Ballpark Classics Hamburger Buns,2.77,2026-08-05T00:00:00-04:00,2026-08-11T23:59:59-04:00
+Giant Tiger,8063244,Lesters Montréal smoked meat or shaved steak,12.97,2026-08-05T00:00:00-04:00,2026-08-11T23:59:59-04:00
+Giant Tiger,8063244,Country Harvest bread,2.77,2026-08-05T00:00:00-04:00,2026-08-11T23:59:59-04:00
+Giant Tiger,8063244,Post cereal,2.97,2026-08-05T00:00:00-04:00,2026-08-11T23:59:59-04:00
+Giant Tiger,8063244,2 lb lemons,3.97,2026-08-05T00:00:00-04:00,2026-08-11T23:59:59-04:00
+Giant Tiger,8063244,E.O. Smith Triple Fruits spread,2.97,2026-08-05T00:00:00-04:00,2026-08-11T23:59:59-04:00
+Giant Tiger,8063244,Hamburger Helper,1.98,2026-08-05T00:00:00-04:00,2026-08-11T23:59:59-04:00
+Giant Tiger,8063244,340 g mini carrots,0.97,2026-08-05T00:00:00-04:00,2026-08-11T23:59:59-04:00
+Giant Tiger,8063244,Post cereal,2.97,2026-08-05T00:00:00-04:00,2026-08-11T23:59:59-04:00
+Giant Tiger,8063244,227 g whole white mushrooms,1.97,2026-08-05T00:00:00-04:00,2026-08-11T23:59:59-04:00
+Giant Tiger,8063244,Primo pasta sauce,1.67,2026-08-05T00:00:00-04:00,2026-08-11T23:59:59-04:00
+Giant Tiger,8063244,Allen's juice,1.47,2026-08-05T00:00:00-04:00,2026-08-11T23:59:59-04:00
+Giant Tiger,8063244,Cavendish Farms frozen crinkle cut fries,2.69,2026-08-05T00:00:00-04:00,2026-08-11T23:59:59-04:00
+Giant Tiger,8063244,HoneyBar bars,3.77,2026-08-05T00:00:00-04:00,2026-08-11T23:59:59-04:00
+Giant Tiger,8063244,Cascade dishwasher tabs,4.97,2026-08-05T00:00:00-04:00,2026-08-11T23:59:59-04:00
+Giant Tiger,8063244,Lesters Montréal smoked meat or shaved steak,12.97,2026-08-05T00:00:00-04:00,2026-08-11T23:59:59-04:00
+Giant Tiger,8063244,3 lb seedless oranges,3.97,2026-08-05T00:00:00-04:00,2026-08-11T23:59:59-04:00
+Costco,8068144,"Scrub Mommy Scrubber and Sponge, 8-count",19.99,2026-08-03T00:00:00-04:00,2026-08-09T23:59:59-04:00
+Costco,8068144,"Pure Protein, Protein Bars Variety Pack, 18 × 50 g",25.99,2026-08-03T00:00:00-04:00,2026-08-09T23:59:59-04:00
+Costco,8068144,"Celsius Vibes Energy Drink Variety Pack, 355 mL 18-pack",31.99,2026-08-03T00:00:00-04:00,2026-08-09T23:59:59-04:00
+Costco,8068144,"Sensible Portions Garden Veggie Snacks, Variety Pack, 24 × 28 g",14.99,2026-08-03T00:00:00-04:00,2026-08-09T23:59:59-04:00
+Costco,8068144,"Windex Original Glass Cleaner, 5 L + 950 mL",17.99,2026-08-03T00:00:00-04:00,2026-08-09T23:59:59-04:00
+Costco,8068144,"Vita Coco, Pure Coconut Water, 12 × 330 mL",20.99,2026-08-03T00:00:00-04:00,2026-08-09T23:59:59-04:00
+Costco,8068144,"Downy Soft Liquid Fabric Softener April Fresh 4.35 L, 251 Loads",19.99,2026-08-03T00:00:00-04:00,2026-08-09T23:59:59-04:00
+Costco,8068144,"Gogo Squeez Organic Fruit Sauce Variety Pack, 28 × 90 g",17.99,2026-08-03T00:00:00-04:00,2026-08-09T23:59:59-04:00
+Costco,8068144,"Ziploc Brand Sandwich Bags, 150-count, 4-pack",19.99,2026-08-03T00:00:00-04:00,2026-08-09T23:59:59-04:00
+Costco,8068144,"Kraft Miracle Whip, 1.77 L",9.99,2026-08-03T00:00:00-04:00,2026-08-09T23:59:59-04:00
+Costco,8068144,"Flax Plus Organic Pumpkin Flax Granola, 1 kg",14.49,2026-08-03T00:00:00-04:00,2026-08-09T23:59:59-04:00
+Costco,8068144,"Sunmaid Organic California Sun Dried Raisins, 2 x 907 g",17.99,2026-08-03T00:00:00-04:00,2026-08-09T23:59:59-04:00
+Costco,8068144,"Samyang Carbonara Buldak Spicy Ramen, 6 × 105 g",12.99,2026-08-03T00:00:00-04:00,2026-08-09T23:59:59-04:00
+Costco,8068144,"Dare Crackers Variety Pack, 1.25 kg",12.49,2026-08-03T00:00:00-04:00,2026-08-09T23:59:59-04:00
+Costco,8068144,"Nellie's Bulk Laundry Soda, 1,100 loads",99.99,2026-08-03T00:00:00-04:00,2026-08-09T23:59:59-04:00
+Costco,8068144,"Bounce Select A Size Dryer Sheets, 400-count",15.99,2026-08-03T00:00:00-04:00,2026-08-09T23:59:59-04:00
+Costco,8068144,"RW Garcia Jalapeno Crackers, 850 g",10.99,2026-08-03T00:00:00-04:00,2026-08-09T23:59:59-04:00
+Costco,8068144,"Donut Shop Original Coffee K-Cup Pods, 96-count",63.99,2026-08-03T00:00:00-04:00,2026-08-09T23:59:59-04:00
+Costco,8068144,"Ocean's Flaked White Albacore Tuna, 6 × 184 g",15.99,2026-08-03T00:00:00-04:00,2026-08-09T23:59:59-04:00
+Costco,8068144,Scrubbing Bubbles Mega Shower Foamer and Bathroom Cleaner Aerosol Combo 4 x 708 g,17.99,2026-08-03T00:00:00-04:00,2026-08-09T23:59:59-04:00
+Costco,8068144,"Café William Espresso Italiano Fair Trade and Organic Coffee, 2 x 908 g",43.99,2026-08-03T00:00:00-04:00,2026-08-09T23:59:59-04:00
+Costco,8068144,"Barista Prima Columbia K-Cup Pods, 96-count",64.99,2026-08-03T00:00:00-04:00,2026-08-09T23:59:59-04:00
+Costco,8068144,"Lavazza Gran Crema Espresso Barista Whole Bean Coffee, 1 kg",27.99,2026-08-03T00:00:00-04:00,2026-08-09T23:59:59-04:00
+Costco,8068144,"Kellogg's Froot Loops, 1.1 kg",9.99,2026-08-03T00:00:00-04:00,2026-08-09T23:59:59-04:00
+Costco,8068144,"Swiffer Sweeper Wet Mopping Cloths, 64 count",24.99,2026-08-03T00:00:00-04:00,2026-08-09T23:59:59-04:00
+Costco,8068144,"Nature Valley Sweet & Salty Granola Bars, 36 × 35 g",14.99,2026-08-03T00:00:00-04:00,2026-08-09T23:59:59-04:00
+Costco,8068144,"Finish Quantum Ultimate+ Dishwasher Detergent, 96 Tablets",23.99,2026-08-03T00:00:00-04:00,2026-08-09T23:59:59-04:00
+Costco,8068144,"SpongeTowels Premium Paper Towels, 12 x 106 sheets",29.99,2026-08-03T00:00:00-04:00,2026-08-09T23:59:59-04:00
+Costco,8068144,"Kraft Grated Parmesan Cheese, 710 g",17.19,2026-08-03T00:00:00-04:00,2026-08-09T23:59:59-04:00
+Costco,8068144,"That's it. Mini Fruit Bars Variety Pack, 24 × 20 g",21.99,2026-08-03T00:00:00-04:00,2026-08-09T23:59:59-04:00
+Costco,8068144,"Kellogg's Cereal Cups Variety Pack, 18 × 53 g",16.49,2026-08-03T00:00:00-04:00,2026-08-09T23:59:59-04:00
+Costco,8068144,Gain Liquid High Efficiency Cold Water + Oxi Fresh Water Frost 4.87 L 121 Loads,20.19,2026-08-03T00:00:00-04:00,2026-08-09T23:59:59-04:00
+Costco,8068144,"McCafé Premium Roast Coffee K-Cup Pods, 80-count",45.99,2026-08-03T00:00:00-04:00,2026-08-09T23:59:59-04:00
+Costco,8068144,"Scotch-Brite Heavy Duty Scrub Sponge, 24-pack",17.99,2026-08-03T00:00:00-04:00,2026-08-09T23:59:59-04:00
+Costco,8068144,"OMG! Milk Chocolate Almond & Toffee Clusters, 680 g",14.99,2026-08-03T00:00:00-04:00,2026-08-09T23:59:59-04:00
+Costco,8068144,"Schneider's Hot Rod Meat Sticks, 40-count",18.99,2026-08-03T00:00:00-04:00,2026-08-09T23:59:59-04:00
+Costco,8068144,"Medallion Milk Co. Skim Milk Powder, 10 kg",89.99,2026-08-03T00:00:00-04:00,2026-08-09T23:59:59-04:00
+Costco,8068144,"Starbucks Cafè Verona Coffee K-Cup Pods, 54-count",42.99,2026-08-03T00:00:00-04:00,2026-08-09T23:59:59-04:00
+Costco,8068144,"Ruffles All Dressed Potato Chips, 612 g",7.99,2026-08-03T00:00:00-04:00,2026-08-09T23:59:59-04:00
+Costco,8068144,"Universal Bakery Organic Aussie Bites, 32-count",14.99,2026-08-03T00:00:00-04:00,2026-08-09T23:59:59-04:00
+Costco,8068144,"Frito-Lay Flavoured Snacks, Variety Pack, 54 × 28 g",24.99,2026-08-03T00:00:00-04:00,2026-08-09T23:59:59-04:00
+Costco,8068144,"Café William Organic Medium Roast Colombian Coffee Beans, 2 × 800 g",43.99,2026-08-03T00:00:00-04:00,2026-08-09T23:59:59-04:00
+Costco,8068144,"Brookside Dark Chocolate Açai & Blueberry Flavours, 850 g",12.99,2026-08-03T00:00:00-04:00,2026-08-09T23:59:59-04:00
+Costco,8068144,"Tim Hortons Original Blend Fine Grind Coffee, 1.36 kg",32.99,2026-08-03T00:00:00-04:00,2026-08-09T23:59:59-04:00
+Costco,8068144,"iECO 6-in × 6-in Bagassed Hinged Containers, 5 × 50-count",29.99,2026-08-03T00:00:00-04:00,2026-08-09T23:59:59-04:00
+Costco,8068144,"Oasis Orange Juice, 24 × 300 mL",19.99,2026-08-03T00:00:00-04:00,2026-08-09T23:59:59-04:00
+Costco,8068144,"Fibre 1 - Chewy Bars Oats and Chocolate, 36 × 35 g",16.99,2026-08-03T00:00:00-04:00,2026-08-09T23:59:59-04:00
+Costco,8068144,"DOSE Organic Ginger Daily Booster shots, ENERGY pack, 24 x 60 mL (2 fl oz)",59.99,2026-08-03T00:00:00-04:00,2026-08-09T23:59:59-04:00
+Costco,8068144,"Hytrend Kitchen Organic Compostable Paper Bag, Pack of 50",15.99,2026-08-03T00:00:00-04:00,2026-08-09T23:59:59-04:00
+Costco,8068144,"Air Wick Scented Oil Plug-in Crisp Linen and Lavender & Chamomile, 1 Warmer & 9 Refills",24.99,2026-08-03T00:00:00-04:00,2026-08-09T23:59:59-04:00
+Costco,8068144,"Wild Roots Coastal Berry Trail Mix, 737 g",15.49,2026-08-03T00:00:00-04:00,2026-08-09T23:59:59-04:00
+Costco,8068144,"Titan Aluminum Foil Heavy Duty, 328' x 18""",19.99,2026-08-03T00:00:00-04:00,2026-08-09T23:59:59-04:00
+Costco,8068144,DOSE Organic Ginger & Turmeric Daily Booster Shots 60 mL (2 fl oz) × 48 bottles,89.99,2026-08-03T00:00:00-04:00,2026-08-09T23:59:59-04:00
+Costco,8068144,"Sparkling ICE Flavoured Water Beverage Variety Pack, 24 x 503 ml",24.99,2026-08-03T00:00:00-04:00,2026-08-09T23:59:59-04:00
+Costco,8068144,"Tide Ultra Coldwater Clean Liquid Laundry Detergent, 124 Loads",28.99,2026-08-03T00:00:00-04:00,2026-08-09T23:59:59-04:00
+Costco,8068144,"Listerine Ultraclean 1.5 L, 2-pack",18.99,2026-08-03T00:00:00-04:00,2026-08-09T23:59:59-04:00
+Costco,8068144,"Nicorette 2mg Mint Gum, 3 x 105 pieces",74.99,2026-08-03T00:00:00-04:00,2026-08-09T23:59:59-04:00
+Costco,8068144,"Listerine Total Care Zero, 1.5 L, Pack of 2",14.99,2026-08-03T00:00:00-04:00,2026-08-09T23:59:59-04:00
+Costco,8068144,"NICORETTE Nicotine Lozenges, Mint, 2mg, 240-count",79.99,2026-08-03T00:00:00-04:00,2026-08-09T23:59:59-04:00
+Costco,8068144,LISTERINE POCKETPAKS Cool Mint Fresh Breath Strips,22.69,2026-08-03T00:00:00-04:00,2026-08-09T23:59:59-04:00
+Costco,8068144,"Nicorette QuickMist Mint, 3 x 150 sprays",89.49,2026-08-03T00:00:00-04:00,2026-08-09T23:59:59-04:00
+Costco,8068144,"Medallion Milk Co. Whole Milk Powder, 10 kg",139.99,2026-08-03T00:00:00-04:00,2026-08-09T23:59:59-04:00
+Costco,8068144,"Clif Builders Protein Bars, 18 × 68 g",25.49,2026-08-03T00:00:00-04:00,2026-08-09T23:59:59-04:00
+Costco,8068144,Always Infinity with FlexFoam Size 2 Menstrual Pads,15.99,2026-08-03T00:00:00-04:00,2026-08-09T23:59:59-04:00
+Costco,8068144,"Brookside Dark Chocolate, Assorted Flavours, 40 × 20 g",16.49,2026-08-03T00:00:00-04:00,2026-08-09T23:59:59-04:00
+Costco,8068144,"Tostitos Medium Salsa, Twin Pack, 2 x 1.21 L",11.99,2026-08-03T00:00:00-04:00,2026-08-09T23:59:59-04:00
+Costco,8068144,"Charmin Ultra Soft Toilet Paper Jumbo Rolls, 30 × 200 Sheets",33.49,2026-08-03T00:00:00-04:00,2026-08-09T23:59:59-04:00
+Costco,8068144,"Heavenly Hunks Oatmeal Dark Chocolate Cookies, 567g",9.99,2026-08-03T00:00:00-04:00,2026-08-09T23:59:59-04:00
+Costco,8068144,"Trubar Plant Based Protein Bars, The Classics, 18 × 50 g",26.99,2026-08-03T00:00:00-04:00,2026-08-09T23:59:59-04:00
+Costco,8068144,"General Mills Honey Nut Cheerios, 1.51 kg",9.99,2026-08-03T00:00:00-04:00,2026-08-09T23:59:59-04:00
+Costco,8068144,"Quaker Yogourt Granola Bars, 40 × 35 g",17.99,2026-08-03T00:00:00-04:00,2026-08-09T23:59:59-04:00
+Costco,8068144,"Dasani Water, 24 × 591 mL",22.99,2026-08-03T00:00:00-04:00,2026-08-09T23:59:59-04:00
+Costco,8068144,Aysen Coho Salmon Fillets 4.54 kg (10 lb),189.99,2026-08-03T00:00:00-04:00,2026-08-09T23:59:59-04:00
+Costco,8068144,"Fruit by the Foot, Fruit Flavoured Snacks, 44 × 21 g",21.49,2026-08-03T00:00:00-04:00,2026-08-09T23:59:59-04:00
+Costco,8068144,"OLÉ Mocktail Variety Pack, 355 mL 18-pack",26.99,2026-08-03T00:00:00-04:00,2026-08-09T23:59:59-04:00
+Costco,8068144,"Scotties Premium Facial Tissue, 21-pack",29.99,2026-08-03T00:00:00-04:00,2026-08-09T23:59:59-04:00
+Costco,8068144,"General Mills Multi-Grain Cheerios Jumbo Pack, 1.24 kg",9.49,2026-08-03T00:00:00-04:00,2026-08-09T23:59:59-04:00
+Costco,8068144,"Snack Factory Pretzel Crisps - Original Pretzel Crackers, 737 g",7.49,2026-08-03T00:00:00-04:00,2026-08-09T23:59:59-04:00
+Costco,8068144,"Zavida Organica Whole Bean Organic Coffee, 2 x 907 g",49.99,2026-08-03T00:00:00-04:00,2026-08-09T23:59:59-04:00
+Costco,8068144,"Cascade Power Clean Shine Boost, 115-count",23.99,2026-08-03T00:00:00-04:00,2026-08-09T23:59:59-04:00
+Costco,8068144,"Swiffer Sweeper Dry Sweeping Cloth, 84 count",23.99,2026-08-03T00:00:00-04:00,2026-08-09T23:59:59-04:00
+Costco,8068144,"Quaker Quick Oats, 2 × 2.58 kg",11.49,2026-08-03T00:00:00-04:00,2026-08-09T23:59:59-04:00
+Costco,8068144,"Downy Unstopables Fresh In-wash Scent Booster Beads, 1.13 kg",24.99,2026-08-03T00:00:00-04:00,2026-08-09T23:59:59-04:00
+Costco,8068144,"Budweiser Zero Non-alcoholic Beer, 30 × 355 mL",31.99,2026-08-03T00:00:00-04:00,2026-08-09T23:59:59-04:00
+Costco,8068144,"KFI Butter Chicken Premium Cooking Sauce, 2.5 L",15.99,2026-08-03T00:00:00-04:00,2026-08-09T23:59:59-04:00
+Costco,8068144,"Trident Tropical Twist, 12 × 14 pieces",14.49,2026-08-03T00:00:00-04:00,2026-08-09T23:59:59-04:00
